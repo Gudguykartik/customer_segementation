@@ -27,8 +27,8 @@ The dataset comprises customer spending data across multiple product categories.
 
 This project demonstrates the power of unsupervised learning techniques, specifically clustering, in uncovering hidden patterns within customer data. The insights gained can be leveraged for personalized marketing, improving customer satisfaction, and increasing business profitability.
 
-## How to Use
+## Libraries Used
 
-1. **Clone the repository:**  
-   ```bash
-   git clone <repository-url>
+1. **Pandas**  
+2. **Numpy**
+3. **Scikit-Learn**
